@@ -49,6 +49,5 @@ Injects a small CSS fix on every page under `https://datatracker.ietf.org/doc/*`
 
 PRs welcome. If you find other IETF layout crimes that need fixing, open an issue.
 
-## License
 
 [MIT](LICENSE)
