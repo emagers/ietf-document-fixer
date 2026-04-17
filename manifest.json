@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "IETF Document Fixer",
+  "name": "IETF CoRIM Document Fixer",
   "version": "1.0.0",
-  "description": "Adjusts the IETF datatracker website text to make it usable on wide-screen monitors.",
+  "description": "Adjusts the layout of IETF datatracker CoRIM draft pages to make them usable on wide-screen monitors.",
   "content_scripts": [
     {
       "matches": ["https://datatracker.ietf.org/doc/draft-ietf-rats-corim*"],
