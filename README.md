@@ -8,7 +8,7 @@
 
 ## What does it do?
 
-Injects a small CSS fix on every page under `https://datatracker.ietf.org/doc/*` that constrains the `.card-body` elements to a sensible reading width, centres them, and left-aligns the text — so documents look like documents, not ASCII art panoramas.
+Injects a small CSS fix on every page under `https://datatracker.ietf.org/doc/*` that constrains the `.card-body` elements to a sensible reading width, centres them, and left-aligns the text — so documents look like documents instead of something you need a telescope to read or a neck brace to navigate.
 
 ```css
 .card-body {
@@ -41,7 +41,7 @@ Injects a small CSS fix on every page under `https://datatracker.ietf.org/doc/*`
 3. Enable **Developer mode** (toggle in the top-right corner).
 4. Click **Load unpacked**.
 5. Select the root folder of this repository (the one containing `manifest.json`).
-6. The extension will appear in your browser toolbar. Visit any `https://datatracker.ietf.org/doc/` page and enjoy text that doesn't require a panoramic display to read.
+6. The extension will appear in your browser toolbar. Visit any `https://datatracker.ietf.org/doc/` page and enjoy text that doesn't require a telescope or a strained neck to read.
 
 ---
 
