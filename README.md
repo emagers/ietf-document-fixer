@@ -1,6 +1,6 @@
 # 🔍 IETF Document Fixer
 
-> *In the year of our Lord 2024, reading an IETF document on a modern widescreen monitor requires the same squinting, neck-craning, and existential suffering as trying to spot a typo on a highway billboard from a moving car. The text stretches from one edge of your monitor to the other like it's trying to achieve some kind of world record for longest line length. RFC editors, we love you, but this is not it.*
+> *Thanks to the marvels of modern display technology, you now own a glorious 4K ultrawide monitor capable of rendering the entire surface area of a small continent. IETF chose to celebrate this achievement by rendering all document text in a cozy little column huddled in the top-left corner — as if it's afraid of the dark and refuses to move away from the nearest wall. The other 75% of your screen sits there, empty, judging you.*
 >
 > *This browser extension fixes that. You're welcome.*
 
@@ -20,13 +20,13 @@ Injects a small CSS fix on every page under `https://datatracker.ietf.org/doc/*`
 
 ## Before & After
 
-### Before — your eyes, betrayed
+### Before — content cowering in the corner
 
-![Before: cards stretch the full viewport width on a widescreen monitor](docs/before.png)
+![Before: content huddled in the top-left, leaving most of the screen a vast, empty wasteland](https://github.com/user-attachments/assets/470378e8-d3ef-4678-8978-fbb722cb99e5)
 
-### After — reading like a civilised human being
+### After — centred, readable, civilised
 
-![After: cards are centred at a comfortable 600 px reading width](docs/after.png)
+![After: content centred at a comfortable reading width](https://github.com/user-attachments/assets/fbab3b5e-f40c-451b-8d38-98057a218226)
 
 ---
 
