@@ -1,6 +1,6 @@
 # 🔍 IETF Document Fixer
 
-> *Thanks to the marvels of modern display technology, you now own a glorious 4K ultrawide monitor capable of rendering the entire surface area of a small continent. IETF chose to celebrate this achievement by rendering all document text in a cozy little column huddled in the top-left corner — as if it's afraid of the dark and refuses to move away from the nearest wall. The other 75% of your screen sits there, empty, judging you.*
+> *Thanks to the marvels of modern display technology, you now own a glorious 4K ultrawide monitor capable of rendering the entire surface area of a small continent. IETF chose to celebrate this achievement by rendering all document text in a cozy little column huddled on the left-hand side — as if it's afraid of the dark and refuses to move away from the nearest wall. The other 75% of your screen sits there, empty, judging you.*
 >
 > *This browser extension fixes that. You're welcome.*
 
