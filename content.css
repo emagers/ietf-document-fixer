@@ -3,3 +3,9 @@
   margin: 0 auto;
   text-align: left;
 }
+
+.rfchtml {
+  max-width: 800px;
+  width: 100%;
+  text-align: left;
+}
