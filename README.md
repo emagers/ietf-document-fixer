@@ -22,7 +22,7 @@ Injects a small CSS fix on every page under `https://datatracker.ietf.org/doc/*`
 
 ### Before — content cowering in the corner
 
-![Before: content huddled in the top-left, leaving most of the screen a vast, empty wasteland](https://github.com/user-attachments/assets/470378e8-d3ef-4678-8978-fbb722cb99e5)
+![Before: content huddled on the left, leaving most of the screen a vast, empty wasteland](https://github.com/user-attachments/assets/470378e8-d3ef-4678-8978-fbb722cb99e5)
 
 ### After — centred, readable, civilised
 
