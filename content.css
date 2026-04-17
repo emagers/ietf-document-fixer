@@ -4,6 +4,10 @@
   text-align: left;
 }
 
+#content {
+  width: 100%;
+}
+
 .rfchtml {
   max-width: 800px;
   width: 100%;
